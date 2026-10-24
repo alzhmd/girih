@@ -1,0 +1,13 @@
+*.blend
+*.blend1
+render/
+post/
+final/
+audio/
+fonts/
+assets/
+blender/
+src/window.json
+anchors.json
+anim_meta.json
+__pycache__/

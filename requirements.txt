@@ -1,0 +1,10 @@
+numpy
+scipy
+shapely
+pillow
+opencolorio
+OpenEXR
+opencv-python-headless
+soundfile
+pyloudnorm
+matplotlib
